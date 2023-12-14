@@ -10,3 +10,9 @@ body{
 .head{
     color: purple;
 }
+.video{
+    object-fit: cover;
+}
+.trailer{
+    background-color: rgb(204,153,0); opacity 0.2; 
+}
